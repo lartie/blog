@@ -114,13 +114,13 @@ params:
     Items:
       - name: "Telegram"
         url: "https://t.me/lartie"
-        logo: "/social/telegram.svg"
+        logo: "social/telegram.svg"
       - name: "GitHub"
         url: "https://github.com/lartie"
-        logo: "/social/github.svg"
+        logo: "social/github.svg"
       - name: "LinkedIn"
         url: "https://www.linkedin.com/in/lartie/"
-        logo: "/social/linkedin.svg"
+        logo: "social/linkedin.svg"
 
   Sponsor:
     Title: Спонсор
