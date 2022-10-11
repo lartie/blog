@@ -5,7 +5,7 @@
     <div style="margin: auto">
     {{ range site.Params.Contacts.Items }}
     <a href="{{ .url }}" target="_blank">
-        <img width="13%" src="{{ .logo }}" alt="{{ .name }}" class="contact-icon">
+        <img width="13%" src="{{ .logo | relURL }}" alt="{{ .name }}" class="contact-icon">
     </a>
     {{ end }}
     </div>
