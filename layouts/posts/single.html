@@ -1,0 +1,14 @@
+{{ define "main" }}
+<article class="markdown">
+  <h1><b>
+    <p style="color: black;">{{ partial "docs/title.html" . }}</p>
+  </b>
+  </h1>
+  {{ partial "docs/post-meta.html" . }}
+  {{- .Content -}}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}

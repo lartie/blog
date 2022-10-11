@@ -1,0 +1,15 @@
+{{ if site.Params.Comments.Giscus }}
+<h2><b>Комментарии</b></h2>
+<script src="https://giscus.app/client.js"
+        data-repo="{{site.Params.Comments.Giscus.Repo}}"
+        data-repo-id="{{site.Params.Comments.Giscus.RepoId}}"
+        data-category="{{site.Params.Comments.Giscus.Category}}"
+        data-category-id="{{site.Params.Comments.Giscus.CategoryId}}"
+        data-mapping="{{site.Params.Comments.Giscus.Mapping}}"
+        data-reactions-enabled="{{site.Params.Comments.Giscus.ReactionsEnabled}}"
+        data-theme="{{site.Params.Comments.Giscus.Theme}}"
+        crossorigin="{{site.Params.Comments.Giscus.CrossOrigin}}"
+        async>
+</script>
+<noscript>Please enable JavaScript to view the comments powered by giscus.</noscript>
+{{ end }}

@@ -1,0 +1,19 @@
+{{ range $taxonomy, $_ := .Site.Taxonomies }}
+  {{ with $terms := $.GetTerms $taxonomy }}
+  <div>
+    {{ range $n, $term := $terms }}{{ if $n }}, {{ end }}
+      <a href="{{ $term.RelPermalink }}">{{ $term.Title }}</a>
+    {{- end }}
+  </div>
+  {{ end }}
+{{ end }}
+
+{{ if .Params.image }}
+<p>
+  {{ with .Resources.GetMatch .Params.image }}
+    <img src={{ .RelPermalink }} />
+  {{ else }}
+    <img src={{ .Params.image | relURL }} />
+  {{ end }}
+</p>
+{{ end }}

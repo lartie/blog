@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ partial "welcome" . }}
+
+{{ range sort .Paginator.Pages }}
+<article class="markdown book-post">
+    <h2>
+        <a style="color: black" href="{{ .RelPermalink }}">{{ partial "docs/title.html" . }}</a>
+    </h2>
+    {{ partial "docs/summary-meta" . }}
+    <p>
+        {{- .Summary -}}
+        <i> <a href="{{ .RelPermalink }}">читать далее »</a></i>
+    </p>
+</article>
+{{ end }}
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}
+
+{{ define "toc" }}
+{{ partial "docs/taxonomy" . }}
+{{ end }}

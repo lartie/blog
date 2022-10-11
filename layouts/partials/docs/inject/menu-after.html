@@ -1,0 +1,17 @@
+<br>
+{{ if site.Params.Contacts.Items }}
+<h3><b>{{ site.Params.Contacts.Title }}</b></h3>
+<div class="contacts">
+    <div style="margin: auto">
+    {{ range site.Params.Contacts.Items }}
+    <a href="{{ .url }}" target="_blank">
+        <img width="13%" src="{{ .logo }}" alt="{{ .name }}" class="contact-icon">
+    </a>
+    {{ end }}
+    </div>
+</div>
+{{ end }}
+{{ if site.Params.Repository }}
+<h3><b>{{ site.Params.Repository.Title }}</b></h3>
+<div class="repo-card" data-repo="{{ site.Params.Repository.Url }}"></div>
+{{ end }}
