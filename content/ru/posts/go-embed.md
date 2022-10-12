@@ -35,3 +35,37 @@ summary: |
 
 ## **Решение с ковырянием исходного кода**
 
+{{< highlight go "linenos=table,hl_lines=9 15-17,linenostart=199" >}}
+// GetTitleFunc returns a func that can be used to transform a string to
+// title case.
+//
+// The supported styles are
+//
+// - "Go" (strings.Title)
+// - "AP" (see https://www.apstylebook.com/)
+// - "Chicago" (see https://www.chicagomanualofstyle.org/home.html)
+//
+// If an unknown or empty style is provided, AP style is what you get.
+func GetTitleFunc(style string) func(s string) string {
+  switch strings.ToLower(style) {
+  case "go":
+    return strings.Title
+  case "chicago":
+    return transform.NewTitleConverter(transform.ChicagoStyle)
+  default:
+    return transform.NewTitleConverter(transform.APStyle)
+  }
+}
+{{< / highlight >}}
+
+
+{{< highlight html >}}
+<section id="main">
+  <div>
+    <h1 id="title">{{ .Title }}</h1>
+    {{ range .Data.Pages }}
+      {{ .Render "summary"}}
+    {{ end }}
+  </div>
+</section>
+{{< /highlight >}}
