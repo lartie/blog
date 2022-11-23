@@ -1,16 +1,22 @@
 baseURL: 'https://blog.artie.su/'
 languageCode: 'ru-RU'
 title: 'inoshipotyanin'
-defaultContentLanguage: 'ru'
 theme: 'hugo-book'
 copyright: Everything is mine
 enableGitInfo: true
+defaultContentLanguage: 'ru'
+defaultContentLanguageInSubdir: true
 
 languages:
   ru:
     languageName: Русский
     title: Вкорячиваем
     contentDir: content/ru
+    weight: 1
+  en:
+    languageName: English
+    title: Shove
+    contentDir: content/en
     weight: 2
 
 params:
