@@ -25,13 +25,13 @@ summary: |
 
 ## Моя база знаний
 
-![Zettel Overview](/posts/notion-zettel-template/zettel-example-dark.png)
+![Zettel Overview](/blog/posts/notion-zettel-template/zettel-example-dark.png)
 
 Board – мой любимый вид представления, он позволяет быстро найти заметки над которыми не была завершена работа, а так же найти интересующую заметку буквально за секунды используя всевозможные фильтры, представления и встроенный поиск.
 
 ## Карточка
 
-![Zettel Article](/posts/notion-zettel-template/zettel-article-example-dark.png)
+![Zettel Article](/blog/posts/notion-zettel-template/zettel-article-example-dark.png)
 
 - Topics – теги котоырм соответствует заметка
 - Source – источник идеи для заметки, например ссылка на книгу, сайт или просто описание любого источника
