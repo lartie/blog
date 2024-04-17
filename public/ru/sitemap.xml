@@ -2,79 +2,100 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ru/posts/notion-zettel-template/notion-zettel-template/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/posts/redis-exploitation/redis-exploitation/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/posts/go-embed/go-embed/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/posts/notion-zettel-template/notion-zettel-template/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/categories/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/posts/go-embed/go-embed/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/categories/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://blog.artie.su/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/categories/"
+                href="https://blog.artie.su/ru/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/tags/notion/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/notion/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/posts/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/posts/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://blog.artie.su/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/tags/"
+                href="https://blog.artie.su/ru/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ru/categories/writings/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/categories/writings/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/zettelk%C3%A4sten/</loc>
-    <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/zettelk%C3%A4sten/</loc>
+    <lastmod>2022-11-23T20:19:35+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/development/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/development/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/embed/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/embed/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/go/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/go/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/tags/golang/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/tags/golang/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/categories/golang/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/categories/golang/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/categories/internals/</loc>
-    <lastmod>2022-10-11T00:00:00+00:00</lastmod>
+    <loc>https://blog.artie.su/ru/categories/internals/</loc>
+    <lastmod>2022-11-23T20:09:50+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/ru/</loc>
+    <loc>https://blog.artie.su/ru/tags/citymobil/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/categories/habr/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/tags/nosql/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/tags/opensourse/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/tags/profiler/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/tags/redis/</loc>
+    <lastmod>2021-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.artie.su/ru/</loc>
     <lastmod>2022-10-13T02:41:06+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://blog.artie.su/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="http://localhost:1313/ru/"
+                href="https://blog.artie.su/ru/"
                 />
   </url>
 </urlset>

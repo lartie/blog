@@ -2,20 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>embed on Вкорячиваем</title>
-    <link>http://localhost:1313/ru/tags/embed/</link>
+    <link>https://blog.artie.su/ru/tags/embed/</link>
     <description>Recent content in embed on Вкорячиваем</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ru/tags/embed/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.artie.su/ru/tags/embed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Расширяем возможности go:embed</title>
-      <link>http://localhost:1313/ru/posts/go-embed/go-embed/</link>
+      <link>https://blog.artie.su/ru/posts/go-embed/go-embed/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/posts/go-embed/go-embed/</guid>
-      <description>В этой статье мы рассмотрим текущие возможности директивы для компилятора 
-  &lt;a href=&#34;https://pkg.go.dev/embed&#34;&gt;go:embed&lt;/a&gt;, чего в ней не хватает и как добавить свои изменения.</description>
+      <guid>https://blog.artie.su/ru/posts/go-embed/go-embed/</guid>
+      <description>В этой статье мы рассмотрим текущие возможности директивы для компилятора &lt;a href=&#34;https://pkg.go.dev/embed&#34;&gt;go:embed&lt;/a&gt;, чего в ней не хватает и как добавить свои изменения.</description>
     </item>
     
   </channel>

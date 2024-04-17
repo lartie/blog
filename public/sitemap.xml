@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>http://localhost:1313/ru/sitemap.xml</loc>
+    <loc>https://blog.artie.su/ru/sitemap.xml</loc>
     
-      <lastmod>2022-11-20T00:00:00+00:00</lastmod>
+      <lastmod>2022-11-23T20:19:35+05:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
+    <loc>https://blog.artie.su/en/sitemap.xml</loc>
     
   </sitemap>
   

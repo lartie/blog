@@ -2,63 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Вкорячиваем</title>
-    <link>http://localhost:1313/ru/tags/</link>
+    <link>https://blog.artie.su/ru/tags/</link>
     <description>Recent content in Tags on Вкорячиваем</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>Everything is mine</copyright>
-    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/ru/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.artie.su/ru/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>notion</title>
-      <link>http://localhost:1313/ru/tags/notion/</link>
+      <link>https://blog.artie.su/ru/tags/notion/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/notion/</guid>
+      <guid>https://blog.artie.su/ru/tags/notion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>zettelkästen</title>
-      <link>http://localhost:1313/ru/tags/zettelk%C3%A4sten/</link>
+      <link>https://blog.artie.su/ru/tags/zettelk%C3%A4sten/</link>
       <pubDate>Sun, 20 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/zettelk%C3%A4sten/</guid>
+      <guid>https://blog.artie.su/ru/tags/zettelk%C3%A4sten/</guid>
       <description></description>
     </item>
     
     <item>
       <title>development</title>
-      <link>http://localhost:1313/ru/tags/development/</link>
+      <link>https://blog.artie.su/ru/tags/development/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/development/</guid>
+      <guid>https://blog.artie.su/ru/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>embed</title>
-      <link>http://localhost:1313/ru/tags/embed/</link>
+      <link>https://blog.artie.su/ru/tags/embed/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/embed/</guid>
+      <guid>https://blog.artie.su/ru/tags/embed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://localhost:1313/ru/tags/go/</link>
+      <link>https://blog.artie.su/ru/tags/go/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/go/</guid>
+      <guid>https://blog.artie.su/ru/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://localhost:1313/ru/tags/golang/</link>
+      <link>https://blog.artie.su/ru/tags/golang/</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ru/tags/golang/</guid>
+      <guid>https://blog.artie.su/ru/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>citymobil</title>
+      <link>https://blog.artie.su/ru/tags/citymobil/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.artie.su/ru/tags/citymobil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nosql</title>
+      <link>https://blog.artie.su/ru/tags/nosql/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.artie.su/ru/tags/nosql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opensourse</title>
+      <link>https://blog.artie.su/ru/tags/opensourse/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.artie.su/ru/tags/opensourse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>profiler</title>
+      <link>https://blog.artie.su/ru/tags/profiler/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.artie.su/ru/tags/profiler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://blog.artie.su/ru/tags/redis/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.artie.su/ru/tags/redis/</guid>
       <description></description>
     </item>
     
